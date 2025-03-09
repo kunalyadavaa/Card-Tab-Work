@@ -44,7 +44,8 @@ Card-Tab is a bookmark card management tool that allows you to freely move bookm
 - Subsequent updates are placed in the `update-workers.js` file.
 
 ## **Demo**
-- [Demo Site](https://demo.usgk.us.kg)
+- [Demo Site](https://card.kunalyadavaa.site/)
+  
 - [Alternate URL](https://demo.linuxdo.nyc.mn)
 - **Login Credentials:**
   - **Username:** admin
@@ -52,7 +53,8 @@ Card-Tab is a bookmark card management tool that allows you to freely move bookm
 
 ### **User Interfaces**
 #### Not Logged In
-*(Insert image here)*
+*(![Screenshot 2025-03-09 133900](https://github.com/user-attachments/assets/4bd0c79e-00c3-48cf-9b10-940415497861)
+)*
 
 #### Logged In (Dark Theme)
 *(Insert image here)*
