@@ -53,14 +53,16 @@ Card-Tab is a bookmark card management tool that allows you to freely move bookm
 
 ### **User Interfaces**
 #### Not Logged In
-*(![Screenshot 2025-03-09 133900](https://github.com/user-attachments/assets/4bd0c79e-00c3-48cf-9b10-940415497861)
-)*
+*![Screenshot 2025-03-09 133900](https://github.com/user-attachments/assets/4bd0c79e-00c3-48cf-9b10-940415497861)
+*
 
 #### Logged In (Dark Theme)
-*(Insert image here)*
+*![Screenshot 2025-03-09 134627](https://github.com/user-attachments/assets/f7989e61-c72d-4e70-b016-efcd68acc4b0)
+*
 
 #### Settings Interface
-*(Insert image here)*
+*![Screenshot 2025-03-09 134755](https://github.com/user-attachments/assets/6aee7045-1fb7-43aa-8b7f-cdab3f38166a)
+*
 
 ## **Deployment Guide**
 ### Deployment can be completed in 5 steps:
