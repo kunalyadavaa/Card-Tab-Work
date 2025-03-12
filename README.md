@@ -67,18 +67,31 @@ Card-Tab is a bookmark card management tool that allows you to freely move bookm
 ## **Deployment Guide**
 ### Deployment can be completed in 5 steps:
 
-1. **Log in to Cloudflare** ([Cloudflare](https://www.cloudflare.com))
-   - Create a Worker and copy the `update-workers.js` code to deploy.
+1. **Log in or Signup to Cloudflare** ([Cloudflare](https://www.cloudflare.com))
+   
+2. **Go to Worker and pages. Then you will see Hello World Template click on that and then  setup a name and deploy.**
 
-2. **Create a new KV storage named `CARD_ORDER`.**
+   ![Screenshot 2025-03-09 133929](https://github.com/user-attachments/assets/5749c65d-fd7c-48ba-97c0-67be7759b27e)
 
-3. **Set an environment variable for backend management password.**
+
+3.**Then remove Hello world text and replace it by  `update-workers.js` code copy and paste in vs code to deploy**
+
+![Screenshot 2025-03-09 134021](https://github.com/user-attachments/assets/902ad6dc-193c-4753-b692-f182c8eb263f)
+
+   
+4.  Create a Worker and copy the `update-workers.js` code to deploy
+  
+
+
+5. **Create a new KV storage named `CARD_ORDER`.**
+
+6. **Set an environment variable for backend management password.**
    - Variable Name: `ADMIN_PASSWORD`
    - Value: Replace `your_password` with your actual password.
 
-4. **Bind the `CARD_ORDER` variable of Workers to the newly created KV storage** to store bookmarks.
+7. **Bind the `CARD_ORDER` variable of Workers to the newly created KV storage** to store bookmarks.
 
-5. **Add a domain name.**
+8. **Add a domain name.**
 
 ## **Final Notes**
 This project is suitable for lightweight use. Feel free to modify it as needed. If you find it helpful, consider giving it a star ⭐ on GitHub. Thank you!
