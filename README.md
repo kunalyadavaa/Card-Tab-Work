@@ -95,7 +95,7 @@ Card-Tab is a bookmark card management tool that allows you to freely move bookm
 
 ## **Final Notes**
 Article = http://blog.kunalyadavaa.site/
-This project is suitable for lightweight use. Feel free to modify it as needed. If you find it helpful, consider giving it a star ⭐ on GitHub. Thank you!
+This project is suitable for lightweight use. Feel free to modify it as needed. If you find it helpful, consider giving it a star ⭐ on GitHub. & support us for more content like this 'buy me a kofi' = https://ko-fi.com/yadavaakunal Thank you!
 ## **Credits **
 Github = https://github.com/hmhm2022
 original Repo = https://github.com/hmhm2022/Card-Tab
